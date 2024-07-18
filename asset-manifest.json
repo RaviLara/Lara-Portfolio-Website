@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Lara-Portfolio-Website/static/css/main.4bc942f3.css",
-    "main.js": "/Lara-Portfolio-Website/static/js/main.9acd3e48.js",
-    "static/js/453.bb257cf5.chunk.js": "/Lara-Portfolio-Website/static/js/453.bb257cf5.chunk.js",
-    "static/media/pfp.jpg": "/Lara-Portfolio-Website/static/media/pfp.bb3a293f1785ddbc6212.jpg",
-    "static/media/onepiece.png": "/Lara-Portfolio-Website/static/media/onepiece.75f94d7d06142bf96649.png",
-    "static/media/scg.png": "/Lara-Portfolio-Website/static/media/scg.d1c07d74f315407906d2.png",
-    "static/media/cocoapp.png": "/Lara-Portfolio-Website/static/media/cocoapp.78544616b94374703898.png",
-    "static/media/mapualogo.png": "/Lara-Portfolio-Website/static/media/mapualogo.5c28e41fff3b736af279.png",
-    "static/media/DepEdproj.png": "/Lara-Portfolio-Website/static/media/DepEdproj.955c3ae6ec719d0f273d.png",
-    "static/media/uphsllogo.png": "/Lara-Portfolio-Website/static/media/uphsllogo.5b96bcc9785e3449d01c.png",
-    "static/media/helvetica-neu.ttf": "/Lara-Portfolio-Website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/Lara-Portfolio-Website/static/media/logo_sub.4a61482a4ec78974bb65.png",
-    "static/media/LaBelleAurore.woff2": "/Lara-Portfolio-Website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-r.png": "/Lara-Portfolio-Website/static/media/logo-r.f3d2ba7035e431b40597.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/Lara-Portfolio-Website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/Lara-Portfolio-Website/index.html",
-    "main.4bc942f3.css.map": "/Lara-Portfolio-Website/static/css/main.4bc942f3.css.map",
-    "main.9acd3e48.js.map": "/Lara-Portfolio-Website/static/js/main.9acd3e48.js.map",
-    "453.bb257cf5.chunk.js.map": "/Lara-Portfolio-Website/static/js/453.bb257cf5.chunk.js.map"
+    "main.css": "/github.io/Lara-Portfolio-Website/static/css/main.3858741f.css",
+    "main.js": "/github.io/Lara-Portfolio-Website/static/js/main.c7e8f897.js",
+    "static/js/453.bb257cf5.chunk.js": "/github.io/Lara-Portfolio-Website/static/js/453.bb257cf5.chunk.js",
+    "static/media/pfp.jpg": "/github.io/Lara-Portfolio-Website/static/media/pfp.bb3a293f1785ddbc6212.jpg",
+    "static/media/onepiece.png": "/github.io/Lara-Portfolio-Website/static/media/onepiece.75f94d7d06142bf96649.png",
+    "static/media/scg.png": "/github.io/Lara-Portfolio-Website/static/media/scg.d1c07d74f315407906d2.png",
+    "static/media/cocoapp.png": "/github.io/Lara-Portfolio-Website/static/media/cocoapp.78544616b94374703898.png",
+    "static/media/mapualogo.png": "/github.io/Lara-Portfolio-Website/static/media/mapualogo.5c28e41fff3b736af279.png",
+    "static/media/DepEdproj.png": "/github.io/Lara-Portfolio-Website/static/media/DepEdproj.955c3ae6ec719d0f273d.png",
+    "static/media/uphsllogo.png": "/github.io/Lara-Portfolio-Website/static/media/uphsllogo.5b96bcc9785e3449d01c.png",
+    "static/media/helvetica-neu.ttf": "/github.io/Lara-Portfolio-Website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/github.io/Lara-Portfolio-Website/static/media/logo_sub.4a61482a4ec78974bb65.png",
+    "static/media/LaBelleAurore.woff2": "/github.io/Lara-Portfolio-Website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-r.png": "/github.io/Lara-Portfolio-Website/static/media/logo-r.f3d2ba7035e431b40597.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/github.io/Lara-Portfolio-Website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/github.io/Lara-Portfolio-Website/index.html",
+    "main.3858741f.css.map": "/github.io/Lara-Portfolio-Website/static/css/main.3858741f.css.map",
+    "main.c7e8f897.js.map": "/github.io/Lara-Portfolio-Website/static/js/main.c7e8f897.js.map",
+    "453.bb257cf5.chunk.js.map": "/github.io/Lara-Portfolio-Website/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bc942f3.css",
-    "static/js/main.9acd3e48.js"
+    "static/css/main.3858741f.css",
+    "static/js/main.c7e8f897.js"
   ]
 }
